@@ -10,6 +10,6 @@ The first map has the information from the weather database and uses the GEOVIEW
 
 ![Alt text](Vacation_Search/WeatherPy_vacation_map.png)
 
-The second map comes from the Vacation Itinerary folder. It uses directions to create a Vacation Itinerary. In this example, I used four cities located in Paraguay; Pozo Colorado, General Roca, Comodoro Rivadavia, and Diego De Almagro. This map also has markers to show additional information on each city. 
+The second map comes from the Vacation Itinerary folder. It uses directions to create a Vacation Itinerary. In this example, I used four cities located in Australia; Port Macquarie, Charlestown, Batemans Bay, and Ulladulla. This map also markers to show additional information on each city. A challenge that I ran into while doing this project was getting the map to zoom in and show the red line (directions) to each destination.
 
-
+![Alt text](Vacation_Itinerary/WeatherPy_travel_map.png)
